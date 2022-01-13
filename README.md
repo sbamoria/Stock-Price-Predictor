@@ -29,13 +29,6 @@ Things i have learnt by completing this project:
 * How to analyze model's performance.
 * How to optimise Long Short Term Memory Neural Network algortithm, to ensure increase in postive results.
 
-### Other Related Projects:
-* <strong> Project 0 : </strong> *[Titanic Survivals Prediction](https://github.com/Rajat-dhyani/titanic_survival)*
-* <strong> Project 1 : </strong> *[Boston's Houses Prediction](https://github.com/Rajat-dhyani/boston_housing)*
-* <strong> Project 2 : </strong> *[Charity Donors Prediction](https://github.com/Rajat-dhyani/charity_donors)*
-* <strong> Project 3 : </strong> *[Creating Customer Segments](https://github.com/Rajat-dhyani/creating_customer_segments)*
-* <strong> Project 4 : </strong> *[Smart Cab](https://github.com/Rajat-dhyani/smart-cab)*
-* <strong> Project 5 : </strong> *[ImageNetBot](https://github.com/Rajat-dhyani/ImageNetBot)*
 
 ## Software and Libraries
 This project uses the following software and Python libraries:
